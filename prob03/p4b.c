@@ -12,7 +12,7 @@ int main(void)
     if(pid == -1){
         perror("Fork");
     }
-    else if(pid != 0){
+    else if(pid == 0){
         wait(&status);
         write(STDOUT_FILENO, "world!\n", 7);
     }
