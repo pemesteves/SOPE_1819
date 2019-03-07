@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
     if (argc != 2)
     {
-        printf("Usage: %s <source> <destination>\n", argv[0]);
+        printf("Usage: %s <source>\n", argv[0]);
         return 1;
     }
     fd1 = open(argv[1], O_RDONLY);
