@@ -8,13 +8,3 @@ Solution fot the exercises of Operating Systems course - MIEIC, FEUP
 ## Authors
 
 * **Pedro Esteves** - [pemesteves](https://github.com/pemesteves) 
-
-## Projects
-
-
-  
-## Individual Component
-
-
-
-### **Final Grade:** 
