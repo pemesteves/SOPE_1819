@@ -5,7 +5,6 @@
 #include <stdlib.h>
 #include <wait.h>
 
-
 int main(void)
 {
     pid_t pid;
